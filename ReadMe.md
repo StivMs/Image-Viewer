@@ -1,9 +1,4 @@
 <h1 align="center"> Image Viewer </h1> <br>
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
-  </a>
-</p>
 
 <p align="center">
   A simple image viewer. Built with Swift using UIKit.
@@ -21,31 +16,22 @@
 
 ## Introduction
 
-
-
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+First Swift project made with UIKit. A simple Image viewer. 
 
 
 <p align="center">
   <img src = "https://i.imgur.com/R3FIBj4.png">
 </p>
 
-## Features
+## What I've learned
 
-A few of the things you can do with GitPoint:
+A few things I've learned during this project:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
-
+* Loading images from folder and adding the path to an array
+* Knowledge about how cell and rows works in a tableView
+* Moving from one scene to another with data (sending over image and data to another scene/view)
 
 
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Majority of the knowledge are from the "Hacking with Swift" - course
