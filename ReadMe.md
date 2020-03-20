@@ -1,29 +1,65 @@
-# Foobar
+<h1 align="center"> Image Viewer </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+  </a>
+</p>
 
-Foobar is a Python library for dealing with word pluralization.
+<p align="center">
+  A simple image viewer. Built with Swift using UIKit.
+</p>
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
 
-```bash
-pip install foobar
-```
+- [Introduction](#introduction)
+- [Features](#features)
 
-## Usage
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-```python
-import foobar
+## Introduction
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
+[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
-Please make sure to update tests as appropriate.
+**Available for both iOS and Android.**
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+<p align="center">
+  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+</p>
+
+## Features
+
+A few of the things you can do with GitPoint:
+
+* View user activity feed
+* Communicate on your issue and pull request conversations
+* Close or lock issues
+* Apply labels and assignees
+* Review and merge pull requests
+* Create new issues
+* Star, watch and fork repositories
+* Control your unread and participating notifications
+* Easily search for any user or repository
+
+<p align="center">
+  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+</p>
+
+
+
+## Acknowledgments
+
+Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
