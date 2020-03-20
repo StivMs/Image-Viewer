@@ -32,7 +32,7 @@ View repository and user information, control your notifications and even manage
 
 
 <p align="center">
-  <img src = "https://prnt.sc/rjmkv1" width=350>
+  <img src = "https://imgur.com/a/LvyWoMz" width=350>
 </p>
 
 ## Features
@@ -48,14 +48,6 @@ A few of the things you can do with GitPoint:
 * Star, watch and fork repositories
 * Control your unread and participating notifications
 * Easily search for any user or repository
-
-<p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
-
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
-</p>
 
 
 
