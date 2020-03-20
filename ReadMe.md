@@ -10,7 +10,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [What I've learned](#What I've learned)
+- [Knowledge](#knowledge)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -23,7 +23,7 @@ First Swift project made with UIKit. A simple Image viewer.
   <img src = "https://i.imgur.com/R3FIBj4.png">
 </p>
 
-## What I've learned
+## Knowledge
 
 A few things I've learned during this project:
 
