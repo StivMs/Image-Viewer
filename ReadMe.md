@@ -27,7 +27,7 @@ View repository and user information, control your notifications and even manage
 
 
 <p align="center">
-  <img src = "https://i.imgur.com/KFenked.png" width=350>
+  <img src = "https://i.imgur.com/KFenked.png">
 </p>
 
 ## Features
