@@ -30,10 +30,9 @@
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
-**Available for both iOS and Android.**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://prnt.sc/rjmkv1" width=350>
 </p>
 
 ## Features
