@@ -1,8 +1,8 @@
 <h1 align="center"> Image Viewer </h1> <br>
 
-<p align="center">
+<h3 align="center">
   A simple image viewer. Built with Swift using UIKit.
-</p>
+</3>
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -10,7 +10,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [What I've learned](#What I've learned)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
