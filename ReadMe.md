@@ -1,7 +1,7 @@
-<h1 align="center"> Image Viewer </h1> <br>
+<h1 align="center"> Image Viewer 📸 </h1> <br>
 
 <h3 align="center">
-  A simple image viewer. Built with Swift using UIKit.
+ 🟧 A simple image viewer. Built with Swift using UIKit. 🟧
 </3>
 
 
