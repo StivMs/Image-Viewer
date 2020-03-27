@@ -30,6 +30,7 @@ A few things I've learned during this project:
 * Loading images from folder and adding the path to an array
 * Knowledge about how cell and rows works in a tableView
 * Moving from one scene to another with data (sending over image and data to another scene/view)
+* Saving images to gallery via share button and getting access to gallery (permisson)
 
 
 ## Acknowledgments
